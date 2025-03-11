@@ -2,12 +2,12 @@
 
 This project generates a random duck image using the Random Duck API.
 
-## 🚀 Live Demo
+##  Live Demo
 Check out the project live at this link: [Live Demo](#)
 
 > **Important:** Before generating a duck image, you need to request permission for API access. Click the **"Fetch Code"** button to enable requests, then proceed to click **"Generate Random Duck"** for a surprise!
 
-## 🎯 How to Use
+##  How to Use
 1. **Request CORS Permission:**
    - Go to [CORS Anywhere](https://cors-anywhere.herokuapp.com/corsdemo)
    - Click on **"Request temporary access to the demo server."**
@@ -16,7 +16,7 @@ Check out the project live at this link: [Live Demo](#)
    - Click the **"Generate Random Duck"** button.
    - A random duck image will appear.
 
-## 🛠 Installation & Setup
+##  Installation & Setup
 1. Clone the repository:
    ```sh
    git clone https://github.com/suryanag0999/Generate-Random-image.git
