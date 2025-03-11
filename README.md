@@ -1,12 +1,50 @@
-# React + Vite
+# Generate Random Duck
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project generates a random duck image using the Random Duck API.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+Check out the project live at this link: [Live Demo](#)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+> **Important:** Before generating a duck image, you need to request permission for API access. Click the **"Fetch Code"** button to enable requests, then proceed to click **"Generate Random Duck"** for a surprise!
 
-## Expanding the ESLint configuration
+## 🎯 How to Use
+1. **Request CORS Permission:**
+   - Go to [CORS Anywhere](https://cors-anywhere.herokuapp.com/corsdemo)
+   - Click on **"Request temporary access to the demo server."**
+2. **Generate a Random Duck:**
+   - Return to the project.
+   - Click the **"Generate Random Duck"** button.
+   - A random duck image will appear.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Installation & Setup
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/suryanag0999/Generate-Random-image.git
+   ```
+2. Navigate into the project folder:
+   ```sh
+   cd Generate-Random-image
+   ```
+3. Install dependencies:
+   ```sh
+   npm install
+   ```
+4. Run the development server:
+   ```sh
+   npm run dev
+   ```
+
+## ✨ Features
+- Fetches a random duck image from the Random Duck API.
+- Displays an error message if the API request fails.
+- Simple and user-friendly UI.
+
+## 🏗 Technologies Used
+- React.js
+- Vite
+- JavaScript
+- CSS
+
+## 📜 License
+This project is open-source and available under the [MIT License](LICENSE).
+
